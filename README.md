@@ -1,3 +1,4 @@
 # silly images!!
 
-* harvested 6 jigsaw jpg images on jigsaw branch
+* melting dog png on main branch 😁
+* jigsaw jpg images on jigsaw branch 😇
