@@ -1,4 +1,4 @@
 # silly images!!
 
-* melting dog png on main branch 😁
-* jigsaw jpg images on jigsaw branch 😇
+* melting dog png in main branch 😁
+* jigsaw jpg images in jigsaw branch 😇
