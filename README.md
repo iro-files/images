@@ -1,4 +1,3 @@
-# silly images!! 🖼️
+# statement images 🗣️
 
-* melting dog png in main branch 🐕
-* jigsaw jpg images in jigsaw branch 🧩
+* silly collection of jpg and png format statement images
